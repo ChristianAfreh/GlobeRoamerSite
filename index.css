@@ -24,6 +24,7 @@ p {
 header{
     max-width: 1200px;
     margin: 40px auto;
+    border-bottom: 1px solid #767f7e;
 }
 
 .grid-container {
@@ -41,6 +42,8 @@ header{
     grid-column: 1 / 4;
     gap:60px;
     align-items: center;
+    border-bottom: 1px solid #767f7e;
+    padding-bottom: 40px;
 }
 
 .featured-article img{
